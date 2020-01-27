@@ -1,0 +1,391 @@
+#EXTM3U
+#EXTINF:-1,ABC EAST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38699.m3u8
+#EXTINF:-1,CBS EAST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36594.m3u8
+#EXTINF:-1,NBC EAST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36592.m3u8
+#EXTINF:-1,FOX EAST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36593.m3u8
+#EXTINF:-1,ABC WEST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/34340.m3u8
+#EXTINF:-1,NBC WEST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31643.m3u8
+#EXTINF:-1,CBS WEST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31644.m3u8
+#EXTINF:-1,FOX WEST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31645.m3u8
+#EXTINF:-1,ABC EAST Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77487.m3u8
+#EXTINF:-1,CBS EAST Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77486.m3u8
+#EXTINF:-1,FOX EAST Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77484.m3u8
+#EXTINF:-1,NBC EAST Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77485.m3u8
+#EXTINF:-1,ABC WEST Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77483.m3u8
+#EXTINF:-1,CBS WEST Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77481.m3u8
+#EXTINF:-1,FOX WEST Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77480.m3u8
+#EXTINF:-1,NBC WEST Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77482.m3u8
+#EXTINF:-1,ESPN Local (East Server)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1262.m3u8
+#EXTINF:-1,ESPN Local (West Server)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/86502.m3u8
+#EXTINF:-1,ESPN Backup
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1709.m3u8
+#EXTINF:-1,ESPN Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/77479.m3u8
+#EXTINF:-1,ESPN2 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95868.m3u8
+#EXTINF:-1,ESPN2 Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95869.m3u8
+#EXTINF:-1,ESPN NEWS Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1275.m3u8
+#EXTINF:-1,ESPN U Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1274.m3u8
+#EXTINF:-1,FOX SPORTS 1 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1367.m3u8
+#EXTINF:-1,FOX SPORTS 2 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38483.m3u8
+#EXTINF:-1,FOX SOCCER PLUS Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33472.m3u8
+#EXTINF:-1,CBS SPORTS HQ Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/99477.m3u8
+#EXTINF:-1,NFL NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1402.m3u8
+#EXTINF:-1,NBA TV Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/29485.m3u8
+#EXTINF:-1,NBA TV Low BW
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/101534.m3u8
+#EXTINF:-1,MLB NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1389.m3u8
+#EXTINF:-1,NHL NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1612.m3u8
+#EXTINF:-1,ELEVEN SPORTS Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/86505.m3u8
+#EXTINF:-1,TVG
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/35449.m3u8
+#EXTINF:-1,TVG 2 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97589.m3u8
+#EXTINF:-1,FREESPORTS | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98772.m3u8
+#EXTINF:-1,PREMIER SPORTS 1 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98771.m3u8
+#EXTINF:-1,PREMIER SPORTS 2 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98770.m3u8
+#EXTINF:-1,FREESPORTS
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/96973.m3u8
+#EXTINF:-1,PREMIER SPORTS 1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/96972.m3u8
+#EXTINF:-1,PREMIER SPORTS 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/96971.m3u8
+#EXTINF:-1,UFC FIGHT PASS
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95860.m3u8
+#EXTINF:-1,UFC FIGHT PASS 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/96165.m3u8
+#EXTINF:-1,UFC FIGHT PASS 3
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/96166.m3u8
+#EXTINF:-1,UFC FIGHT PASS 4
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/96167.m3u8
+#EXTINF:-1,UFC FIGHT PASS 5
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100901.m3u8
+#EXTINF:-1,UFC TV
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33843.m3u8
+#EXTINF:-1,WWE
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36372.m3u8
+#EXTINF:-1,GOLF CHANNEL Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1479.m3u8
+#EXTINF:-1,NBCSN Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1396.m3u8
+#EXTINF:-1,ACC NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98754.m3u8
+#EXTINF:-1,BIG TEN NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1467.m3u8
+#EXTINF:-1,N 2 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/86541.m3u8
+#EXTINF:-1,N 3 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/86542.m3u8
+#EXTINF:-1,N 4 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/86543.m3u8
+#EXTINF:-1,LONGHORN NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/34341.m3u8
+#EXTINF:-1,SEC NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1419.m3u8
+#EXTINF:-1,Pac-12 NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1413.m3u8
+#EXTINF:-1,Pac-12 ARIZONA Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1409.m3u8
+#EXTINF:-1,Pac-12 WASHINGTON
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1415.m3u8
+#EXTINF:-1,Pac-12 OREGON Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1414.m3u8
+#EXTINF:-1,Pac-12 LOS ANGELES Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1411.m3u8
+#EXTINF:-1,Pac-12 BAY AREA Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1410.m3u8
+#EXTINF:-1,PAC-12 MOUNTAIN Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1596.m3u8
+#EXTINF:-1,FOX COLLEGE ATLANTIC Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33483.m3u8
+#EXTINF:-1,FOX COLLEGE CENTRAL Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33484.m3u8
+#EXTINF:-1,FOX COLLEGE PACIFIC Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36266.m3u8
+#EXTINF:-1,FOX SPORTS ARIZONA Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33761.m3u8
+#EXTINF:-1,FOX SPORTS ASIA 1 (HK | THAI)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97685.m3u8
+#EXTINF:-1,FOX SPORTS ASIA 1 (PHIL)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97684.m3u8
+#EXTINF:-1,FOX SPORTS ASIA 1 (SING)
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97683.m3u8
+#EXTINF:-1,FOX SPORTS ASIA 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97682.m3u8
+#EXTINF:-1,FOX SPORTS ASIA 3
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97681.m3u8
+#EXTINF:-1,FOX SPORTS RACING | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/99601.m3u8
+#EXTINF:-1,FOX SPORTS CAROLINAS Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36274.m3u8
+#EXTINF:-1,FOX SPORTS DETROIT Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33759.m3u8
+#EXTINF:-1,FOX SPORTS INDIANA Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/88267.m3u8
+#EXTINF:-1,FOX SPORTS FLORIDA Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33758.m3u8
+#EXTINF:-1,FOX SPORTS KANSAS CITY Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/96170.m3u8
+#EXTINF:-1,FOX SPORTS MID WEST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33756.m3u8
+#EXTINF:-1,FOX SPORTS NEW ORLEANS Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36272.m3u8
+#EXTINF:-1,FOX SPORTS NORTH Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33755.m3u8
+#EXTINF:-1,FOX SPORTS OHIO Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33754.m3u8
+#EXTINF:-1,FOX SPORTS OHIO PLUS Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/84649.m3u8
+#EXTINF:-1,FOX SPORTS OKLAHOMA Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89131.m3u8
+#EXTINF:-1,FOX SPORTS PRIME TICKET Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36570.m3u8
+#EXTINF:-1,FOX SPORTS SAN ANTONIO Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100675.m3u8
+#EXTINF:-1,FOX SPORTS SAN DIEGO Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36279.m3u8
+#EXTINF:-1,FOX SPORTS SOUTH Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33751.m3u8
+#EXTINF:-1,FOX SPORTS SE Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33750.m3u8
+#EXTINF:-1,FOX SPORTS SW Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33749.m3u8
+#EXTINF:-1,FOX SPORTS SOUTHWEST PLUS
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36277.m3u8
+#EXTINF:-1,FOX SPORTS SUN Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33748.m3u8
+#EXTINF:-1,FOX SPORTS TIME OHIO Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/91157.m3u8
+#EXTINF:-1,FOX SPORTS WEST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33746.m3u8
+#EXTINF:-1,FOX SPORTS WISCONSIN Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33745.m3u8
+#EXTINF:-1,FOX SPORTS YES NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33762.m3u8
+#EXTINF:-1,FOX ES Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36267.m3u8
+#EXTINF:-1,MASN Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97420.m3u8
+#EXTINF:-1,MASN 2 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/97421.m3u8
+#EXTINF:-1,MSG Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/33474.m3u8
+#EXTINF:-1,MSG PLUS Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38593.m3u8
+#EXTINF:-1,MSG 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100710.m3u8
+#EXTINF:-1,MSG+2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100711.m3u8
+#EXTINF:-1,SNY Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38440.m3u8
+#EXTINF:-1,NESN Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/35508.m3u8
+#EXTINF:-1,NESN PLUS Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95016.m3u8
+#EXTINF:-1,AT&T SPORTSNET SOUTHWEST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/96149.m3u8
+#EXTINF:-1,SPECTRUM SPORTSNET
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89362.m3u8
+#EXTINF:-1,SPORTSNET L.A.
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/59601.m3u8
+#EXTINF:-1,NBCSN BAY AREA Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1730.m3u8
+#EXTINF:-1,NBCSN BOSTON Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1732.m3u8
+#EXTINF:-1,NBCSN CALIFORNIA Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/35437.m3u8
+#EXTINF:-1,NBCSN CHICAGO Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1731.m3u8
+#EXTINF:-1,NBCSN NORTH WEST Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1733.m3u8
+#EXTINF:-1,NBCSN PHILLY Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1734.m3u8
+#EXTINF:-1,NBCSN WASHINGTON Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/81822.m3u8
+#EXTINF:-1,CBS SPORTS NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1281.m3u8
+#EXTINF:-1,WEST OHIO SPORTS NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/96967.m3u8
+#EXTINF:-1,TENNIS CHANNEL Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31209.m3u8
+#EXTINF:-1,STADIUM Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89136.m3u8
+#EXTINF:-1,STADIUM 1 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89137.m3u8
+#EXTINF:-1,STADIUM 2 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89138.m3u8
+#EXTINF:-1,STADIUM 3 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89139.m3u8
+#EXTINF:-1,ESPN College Sports Extra 1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/85262.m3u8
+#EXTINF:-1,ESPN College Sports Extra 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/85263.m3u8
+#EXTINF:-1,ESPN College Sports Extra 3
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/85264.m3u8
+#EXTINF:-1,ESPN College Sports Extra 4
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/85265.m3u8
+#EXTINF:-1,ESPN College Sports Extra 5
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/85266.m3u8
+#EXTINF:-1,ESPN College Sports Extra 6
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/85267.m3u8
+#EXTINF:-1,ESPN College Sports Extra 7
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/85268.m3u8
+#EXTINF:-1,ESPN College Sports Extra 8
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/85269.m3u8
+#EXTINF:-1,FIGHT NETWORK Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/29193.m3u8
+#EXTINF:-1,BOX NATION
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1380.m3u8
+#EXTINF:-1, SPORTS 1 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89214.m3u8
+#EXTINF:-1, SPORTS 2 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89213.m3u8
+#EXTINF:-1, SPORTS 3 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89212.m3u8
+#EXTINF:-1, SPORTS EPSN
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89211.m3u8
+#EXTINF:-1, SPORTS EXTRA 1 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100702.m3u8
+#EXTINF:-1, SPORTS EXTRA 2 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100703.m3u8
+#EXTINF:-1, SPORTS EXTRA 3 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100704.m3u8
+#EXTINF:-1, SPORTS EXTRA 4 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100705.m3u8
+#EXTINF:-1, SPORTS EXTRA 5 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100706.m3u8
+#EXTINF:-1, SPORTS EXTRA 6 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100707.m3u8
+#EXTINF:-1, SPORTS EXTRA 7 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100708.m3u8
+#EXTINF:-1, SPORTS ACTION | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98789.m3u8
+#EXTINF:-1, SPORTS ARENA | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98787.m3u8
+#EXTINF:-1, SPORTS CRICKET | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98785.m3u8
+#EXTINF:-1, SPORTS F1 | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98783.m3u8
+#EXTINF:-1, SPORTS FOOTBALL | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98781.m3u8
+#EXTINF:-1, SPORTS GOLF | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98779.m3u8
+#EXTINF:-1, SPORTS MAIN EVENT | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98777.m3u8
+#EXTINF:-1, SPORTS MIX | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98857.m3u8
+#EXTINF:-1, SPORTS NEWS | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98801.m3u8
+#EXTINF:-1, SPORTS PREMIER LEAGUE | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98775.m3u8
+#EXTINF:-1, SPORTS RACING | VIP
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/98773.m3u8
+#EXTINF:-1,SPORT 1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31459.m3u8
+#EXTINF:-1,SPORT 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/31460.m3u8
+#EXTINF:-1,TSN 1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1621.m3u8
+#EXTINF:-1,TSN 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1622.m3u8
+#EXTINF:-1,TSN 3
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1623.m3u8
+#EXTINF:-1,TSN 4
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1624.m3u8
+#EXTINF:-1,TSN 5
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1625.m3u8
+#EXTINF:-1,SPORTSNET WORLD
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1619.m3u8
+#EXTINF:-1,SPORTSNET ONTARIO
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/25999.m3u8
+#EXTINF:-1,SPORTSNET 360
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/26000.m3u8
+#EXTINF:-1,SPORTSNET ONE
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/26001.m3u8
+#EXTINF:-1,SPORTSNET PACIFIC
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/26002.m3u8
+#EXTINF:-1, SPORTS ESP (US) Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/27685.m3u8
+#EXTINF:-1, SPORT LA esp
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/28014.m3u8
+#EXTINF:-1, SPORT esp
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/36412.m3u8
+#EXTINF:-1, SPORTS USA Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/1501.m3u8
+#EXTINF:-1, CONNECT 4 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38455.m3u8
+#EXTINF:-1, CONNECT 5 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38456.m3u8
+#EXTINF:-1, CONNECT 6 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38457.m3u8
+#EXTINF:-1, CONNECT 7 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38458.m3u8
+#EXTINF:-1, CONNECT 8 Local
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/38459.m3u8
+#EXTINF:-1,Bee n Sport 1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89210.m3u8
+#EXTINF:-1,Bee n Sport 2
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89209.m3u8
+#EXTINF:-1,Bee N Sport 3
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89208.m3u8
+#EXTINF:-1,Bee N Sport 4
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89207.m3u8
+#EXTINF:-1,Bee n Sport 5
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89206.m3u8
+#EXTINF:-1,Bee n Sport 6
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89205.m3u8
+#EXTINF:-1,Bee n Sport 7
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89204.m3u8
+#EXTINF:-1,Bee N Sport 8
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89203.m3u8
+#EXTINF:-1,Bee N Sport 9
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89202.m3u8
+#EXTINF:-1,Bee N Sport 10
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89201.m3u8
+#EXTINF:-1,Bee N Sport 11
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89200.m3u8
+#EXTINF:-1,Bee n Sport 12
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/89199.m3u8
+#EXTINF:-1,Bee N Sport 13
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100633.m3u8
+#EXTINF:-1,OSN CRICKET
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/95012.m3u8
+#EXTINF:-1,WILLOW CRICKET
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100685.m3u8
+#EXTINF:-1,WILLOWXTRA CRICKET
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/100686.m3u8
+#EXTINF:-1,WILLOW 1
+http://89.187.181.171:826/live/armelb/zQxn5lB3zK/92900.m3u8
